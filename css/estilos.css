@@ -1,14 +1,28 @@
-body{
-    width: 600px;
-    margin: 0 auto;
+*{
+
+    padding: 0;
+    margin: 0;
+    font-family: 'Lobster', cursive;
 }
 
 h1{
     text-align: center;
 }
 
+
 #miCanvas{
     border:groove 2px red;
     background: black;
     box-shadow: 10px 10px 10px #888888 ;
+    margin-left: 26%;
+    margin-top: 5%;
+    z-index: 100;
 }
+img{
+    margin-left: 30%;
+}
+
+
+
+
+
