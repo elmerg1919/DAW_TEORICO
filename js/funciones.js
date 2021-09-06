@@ -1,6 +1,10 @@
 /**************
 INICIO
 ***************/
+/**************
+
+***************/
+
 window.onload = function () {
 	canvas = document.getElementById("miCanvas");
 	if (canvas && canvas.getContext) {
